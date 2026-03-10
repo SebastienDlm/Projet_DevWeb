@@ -1,0 +1,150 @@
+body{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+/*
+    HEADER
+*/
+header{
+    flex-basis: 90%;
+    text-align: center;}
+
+header nav ul{
+    display: flex;
+    flex-grow: 1;
+    flex-basis: 95%;
+    width: 85vw;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+header li{
+    display: inline;
+    padding: 1%;
+}
+
+
+/*
+    MAIN
+*/
+main{
+    flex-basis: 1;
+    justify-content: center;
+    border: 0.2em solid black;
+    width: 65%;
+    padding: 3%;
+    margin-top: 10em;
+    margin-bottom: 10em;
+}
+
+main h1, main h2{
+    text-align: center;
+}
+
+
+/* 
+    Doctorat
+*/
+.img-doctorat {
+    display: block !important;
+    margin: 20px auto !important;
+}
+
+main.doctorat th{
+    text-align: left;
+}
+
+main.doctorat h4 {
+    display: inline-block;
+    padding-bottom: 3px;
+    margin-bottom: 10px;
+}
+
+main.doctorat section {
+    margin-top: 60px;
+    padding-top: 40px;
+}
+
+main.doctorat section:first-of-type {
+    margin-top: 0;
+}
+
+
+/*
+    Inge
+*/
+.inge{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.inge div{
+    flex-basis: 90%;
+    text-align: center;
+}
+
+.footinge ul{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footinge ul li{
+    flex-basis: 20vw;
+    flex-grow: 1;
+}
+
+
+/*
+    LICENCE PRO
+*/
+main.licence-pro{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+main.licence-pro h2{
+    flex-grow: 1;
+    flex-basis: 98%;
+    text-align: left;
+    padding-top: 6%;
+}
+
+main.licence-pro p{
+    flex-grow: 1;
+    flex-basis: 98%;
+    text-align: left;
+}
+
+main.licence-pro section.cours{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+
+/*
+    Master
+*/
+main.master img{
+    flex-grow: 0;
+}
+
+main.master div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.master1{
+    margin: 0%;
+    padding: 2%;
+}
+
+.master2{
+    margin: 0%;
+    padding: 2%;
+}

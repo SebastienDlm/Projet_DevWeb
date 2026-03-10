@@ -1,0 +1,100 @@
+body{
+    background-color: lightgray;
+}
+
+
+/*
+    HEADER
+*/
+header{
+    width: 1vw;
+}
+
+header li a{
+    text-decoration: none;
+    background-color: #a21f5c;
+    padding: 1vw;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 50%;
+    color: white;
+}
+
+
+/*
+    FOOTER
+*/
+footer{
+    background-color: gray;
+    width: 100vw;
+    padding: 1%;
+}
+
+footer a{
+    color: blue;
+}
+
+
+/*
+    MAIN
+*/
+main{
+    background-color: white;
+    border: 0.2em solid black;
+    width: 65%;
+}
+
+main a{
+    color: black;
+}
+
+
+/* 
+    Doctorat
+*/
+main.doctorat .img-doctorat {
+    width: 250px !important; 
+    height: auto !important;
+}
+
+main.doctorat h4 {
+    border-bottom: 3px solid #121a8f;
+}
+
+main.doctorat section {
+    border-top: 4px solid #a21f5c;
+}
+
+main.doctorat section:first-of-type {
+    border-top: none;
+}
+
+
+/*
+    Inge
+*/
+.inge div img{
+    width: 15vw;
+}
+
+.footinge ul li{
+    list-style: none;
+    margin-bottom: 20px;
+}
+
+
+/*
+    Master
+*/
+main img{
+    width: 15%;
+}
+
+.master1{
+    background-color: plum;
+}
+
+.master2{
+    background-color: #a21f5c;
+    color: white;
+}
