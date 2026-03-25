@@ -8,3 +8,5 @@ En tant que chef de projet de cette petite équipe, j’ai choisi de me focalise
 De plus, j’ai réalisé les pages Accueil et Licence professionnelle.
 
 Merci de votre intérêt pour ce projet.
+
+Note : /20
