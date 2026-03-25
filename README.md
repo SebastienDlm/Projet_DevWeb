@@ -9,4 +9,4 @@ De plus, j’ai réalisé les pages Accueil et Licence professionnelle.
 
 Merci de votre intérêt pour ce projet.
 
-Note : /20
+## Note : /20
