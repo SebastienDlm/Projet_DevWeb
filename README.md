@@ -10,4 +10,11 @@ De plus, j’ai réalisé les pages Accueil et Licence professionnelle.
 
 Merci de votre intérêt pour ce projet.
 
-**Note : /20**
+## Équipe
+
+- Sébastien DELMÉ — Chef de projet / Développeur  
+- Étienne COUDRAY — Développeur  
+- Raphaël DAVID — Développeur  
+- Esus CROUET — Développeur  
+
+**Note : 12,30/20** *(note incomplète)*
