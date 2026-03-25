@@ -1,4 +1,4 @@
-# Projet DevWeb
+# Projet Universitaire - Site Web : SAE 2.06 - Recherche documentaire et production d'un site Web
 
 Un projet universitaire visant à créer un site internet sur les poursuites d’études possibles après un BUT Informatique.
 
