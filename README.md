@@ -1,4 +1,5 @@
-# Projet Universitaire - Site Web : SAE 2.06 - Recherche documentaire et production d'un site Web
+# Projet Universitaire - Site Web : SAE 2.06  
+## Recherche documentaire et production d'un site Web
 
 Un projet universitaire visant à créer un site internet sur les poursuites d’études possibles après un BUT Informatique.
 
@@ -9,4 +10,4 @@ De plus, j’ai réalisé les pages Accueil et Licence professionnelle.
 
 Merci de votre intérêt pour ce projet.
 
-## Note : /20
+**Note : /20**
