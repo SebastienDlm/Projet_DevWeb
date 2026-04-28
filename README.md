@@ -17,4 +17,4 @@ Merci de votre intérêt pour ce projet.
 - Raphaël DAVID — Développeur  
 - Esus CROUET — Développeur  
 
-**Note : 12,30/20** *(note incomplète)*
+**Note : 12,60/20**
